@@ -21,7 +21,7 @@ git clone https://github.com/srvinoth/spring-boot-mongodb-angular4-todo-app-mast
 **2. Build and run the backend app using maven**
 
 ```bash
-cd spring-boot-mongodb
+cd spring-boot-mongodb-backend
 mvn package
 java -jar target/todoapp-1.0.0.jar
 ```
