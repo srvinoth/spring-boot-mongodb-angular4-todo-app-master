@@ -1,4 +1,4 @@
-# Spring Boot, MongoDB, Angular 4 Restful API Tutorial
+# Spring Boot, MongoDB, Angular 4 Restful API todos app
 
 Build a Todo App with Spring Boot & MongoDB in the Backend and Angular 4 in the frontend.
 
